@@ -1,0 +1,1 @@
+random(3,6) * noise(transform.scale[0]-100)

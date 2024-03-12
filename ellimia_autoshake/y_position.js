@@ -1,0 +1,1 @@
+540 + noise(transform.scale[0]-100) * 80 + transform.scale[0]-100
